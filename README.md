@@ -51,6 +51,10 @@ By analyzing customer demographics, services usage, contract types, and billing 
 ---
 ## 📂 Dashboard overview
 <img width="1308" height="747" alt="overview" src="https://github.com/user-attachments/assets/058fe95d-e9af-4056-8634-e08597d7609c" />
+<img width="1291" height="745" alt="demographics" src="https://github.com/user-attachments/assets/78854cdd-794e-4cf4-ad22-935fd6bd2279" />
+<img width="1305" height="753" alt="churn rate" src="https://github.com/user-attachments/assets/f4f74a81-5b42-4c2b-be65-99d35d40640c" />
+<img width="1307" height="747" alt="customers" src="https://github.com/user-attachments/assets/adab2475-41ce-443f-9387-0257dd1adbf1" />
+
 
 ##  Author:
 Haya Ahmed Elessawy
