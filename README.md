@@ -49,6 +49,7 @@ By analyzing customer demographics, services usage, contract types, and billing 
 - Fiber optic users show higher churn compared to DSL  
 
 ---
+## 📂 Dashboard overview
 
-## 🚀 Author
-Haya Essawy
+##  Author:
+Haya Ahmed Elessawy
