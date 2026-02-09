@@ -50,6 +50,7 @@ By analyzing customer demographics, services usage, contract types, and billing 
 
 ---
 ## 📂 Dashboard overview
+<img width="1308" height="747" alt="overview" src="https://github.com/user-attachments/assets/058fe95d-e9af-4056-8634-e08597d7609c" />
 
 ##  Author:
 Haya Ahmed Elessawy
